@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847210502911",
+    "project_id": "ccstudy-f84d3",
+    "storage_bucket": "ccstudy-f84d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847210502911:android:58b1c0b23e211b03874aca",
+        "android_client_info": {
+          "package_name": "com.example.ccsstudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847210502911-f6s66cd8gln9rfh3uvfpg5i77ono91ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDijrmw6OZYS2ZUcI9CYn9G3ItC9HbJ4GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847210502911-f6s66cd8gln9rfh3uvfpg5i77ono91ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
